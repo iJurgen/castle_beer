@@ -32,3 +32,6 @@ Sometimes I’ll add a short “beer log” to my travel reports, with:
 - 📍 where I drank it
 - 🍻 what it was
 - ⭐ whether it’s worth hunting down again
+
+Explore the categories:
+- 📓 [Trip Reports](./reports/)
